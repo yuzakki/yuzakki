@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about creating engaging and interac
 - HTML5, CSS3, JavaScript
 - Responsive Web Design
 - CSS Preprocessors (Sass, Less)
-- Front-End Frameworks (React, Vue.js)
+- Front-End Frameworks (React)
 - Version Control (Git)
 - UI/UX Design Principles
 - Cross-Browser Compatibility
