@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**yuzakki/yuzakki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'M HASSAN 🙂
+## Front-End Web Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about creating engaging and interactive web experiences. As a front-end web developer, I specialize in crafting beautiful user interfaces using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- HTML5, CSS3, JavaScript
+- Responsive Web Design
+- CSS Preprocessors (Sass, Less)
+- Front-End Frameworks (React, Vue.js)
+- Version Control (Git)
+- UI/UX Design Principles
+- Cross-Browser Compatibility
+
+### Contact Me
+Feel free to reach out to me via email at my email above or connect with me on LinkedIn.
