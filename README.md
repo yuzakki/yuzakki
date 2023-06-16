@@ -6,13 +6,15 @@
 Welcome to my GitHub profile! I'm passionate about creating engaging and interactive web experiences. As a front-end web developer, I specialize in crafting beautiful user interfaces using modern technologies.
 
 ## Skills
-- HTML5, CSS3, JavaScript
+- HTML5
+- CSS3 (and Bootstrap framework)
+- JavaScript 
 - Responsive Web Design
-- CSS Preprocessors (Sass, Less)
-- Front-End Frameworks (React)
+- CSS Preprocessors (Sass)
 - Version Control (Git)
 - UI/UX Design Principles
 - Cross-Browser Compatibility
+- RESTful APIs
 
 ## Education
 Baccalaureate Degree: Graduation Year 2023
