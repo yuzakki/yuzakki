@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm passionate about creating engaging and interac
 - CSS3 (and Bootstrap framework)
 - JavaScript 
 - Responsive Web Design
-- CSS Preprocessors (Sass)
 - Version Control (Git)
 - UI/UX Design Principles
 - Cross-Browser Compatibility
