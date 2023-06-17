@@ -19,4 +19,4 @@ Welcome to my GitHub profile! I'm passionate about creating engaging and interac
 Baccalaureate Degree: Graduation Year 2023
 
 ## Contact Me
-Feel free to reach out to me via email at my email above or connect with me on LinkedIn.
+Feel free to reach out to me via email at my email above or connect with me on WhatsApp => +212 766 447 420 
