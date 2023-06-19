@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I'm passionate about creating engaging and interac
 ## Skills
 - HTML5
 - CSS3 (and Bootstrap framework)
-- JavaScript 
+- JavaScript
+- React Js
 - Responsive Web Design
 - Version Control (Git)
 - UI/UX Design Principles
