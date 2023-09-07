@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about creating engaging and interac
 
 ## Skills
 - HTML5
-- CSS3 (and Bootstrap framework)
+- CSS3 (Bootstrap & TailwindCSS frameworks)
 - JavaScript
 - React Js
 - Responsive Web Design
@@ -18,6 +18,3 @@ Welcome to my GitHub profile! I'm passionate about creating engaging and interac
 
 ## Education
 Baccalaureate Degree: Graduation Year 2023
-
-## Contact Me
-Feel free to reach out to me via email at my email above or connect with me on WhatsApp => +212 766 447 420 
