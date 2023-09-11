@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about creating engaging and interac
 
 ## Skills
 - HTML5
-- CSS3 (Bootstrap & TailwindCSS frameworks)
+- CSS3 (TailwindCSS framework)
 - JavaScript
 - React Js
 - Responsive Web Design
