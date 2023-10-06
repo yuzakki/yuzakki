@@ -16,5 +16,8 @@ Welcome to my GitHub profile! I'm passionate about creating engaging and interac
 - Cross-Browser Compatibility
 - RESTful APIs
 
+## I'm currently learning:
+- TypeScript and Nextjs
+
 ## Education
 Baccalaureate Degree: Graduation Year 2023
