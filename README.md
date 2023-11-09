@@ -1,20 +1,22 @@
 ### Hi there 👋
 
-# I'M HASSAN 🙂
+# I'M HASSAN 
 ## Front-End Web Developer
 
 Welcome to my GitHub profile! I'm passionate about creating engaging and interactive web experiences. As a front-end web developer, I specialize in crafting beautiful user interfaces using modern technologies.
 
 ## Skills
-- HTML5
-- CSS3 (TailwindCSS framework)
-- JavaScript
-- React Js
-- Responsive Web Design
-- Version Control (Git)
-- UI/UX Design Principles
-- Cross-Browser Compatibility
-- RESTful APIs
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=tailwind,materialui)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<br/>
 
 ## I'm currently learning:
 - Nodejs, express and mongoDB
