@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about creating engaging and interac
 - RESTful APIs
 
 ## I'm currently learning:
-- TypeScript and Nextjs
+- Nodejs, express and mongoDB
 
 ## Education
 Baccalaureate Degree: Graduation Year 2023
