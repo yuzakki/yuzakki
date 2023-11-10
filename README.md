@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about creating engaging and interac
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  -->
 <!-- [![My Skills](https://skillicons.dev/icons?i=vercel,vscode)](https://skillicons.dev) -->
-<br/>
+<!-- <br/> -->
 
 ## I'm currently learning:
 - Nodejs, express and mongoDB
