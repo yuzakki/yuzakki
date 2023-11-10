@@ -7,17 +7,17 @@ Welcome to my GitHub profile! I'm passionate about creating engaging and interac
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  -->
 [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  -->
 [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  -->
 [![My Skills](https://skillicons.dev/icons?i=tailwind,materialui)](https://skillicons.dev)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  -->
 [![My Skills](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  -->
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  -->
 [![My Skills](https://skillicons.dev/icons?i=vercel,vscode)](https://skillicons.dev)
 <br/>
 
