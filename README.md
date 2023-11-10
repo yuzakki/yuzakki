@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about creating engaging and interac
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,materialui,figma,xd,git,github,vercel,vscode)](https://skillicons.dev)
 
-<br/>
+<!-- <br/> -->
 
 ## I'm currently learning:
 - Nodejs, express and mongoDB
