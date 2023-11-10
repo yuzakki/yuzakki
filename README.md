@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm passionate about creating engaging and interac
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,vscode)](https://skillicons.dev)
 <br/>
 
 ## I'm currently learning:
